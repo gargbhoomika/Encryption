@@ -1,0 +1,4 @@
+In this Java project you can enter the data and the password and then the data gets encrypted.
+Again if you pass the same password only the you will be able to access the entered data.
+Otherwise it will keep asking you for the corect password until you put the right password.
+
